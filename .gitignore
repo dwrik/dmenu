@@ -1,0 +1,10 @@
+patches
+
+dmenu_path
+dmenu_run
+
+config.h
+
+*.o
+*.rej
+*.orig
